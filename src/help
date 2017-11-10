@@ -1,0 +1,6 @@
+Demo: contains the demo scripts to test functioning.  
+Model: contains code to create models for training.  
+Data: Contains code for data handling. Interfaces and Classes.
+features: contains code to create/edit features from dataset
+
+SRC folder contains all the base code that runs the complete repo.
