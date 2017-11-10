@@ -1,6 +1,8 @@
-from data.loader import Loader
-import pandas as pd
 import gzip
+
+import pandas as pd
+
+from src.data.loader import Loader
 
 
 class JSONLoader(Loader):

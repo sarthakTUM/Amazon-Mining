@@ -1,7 +1,7 @@
 """
 Demo script to load data in Python IDE.
 """
-from data.json_loader import JSONLoader
+from src.data.json_loader import JSONLoader
 
 
 def load_data():
